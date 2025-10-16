@@ -85,7 +85,7 @@ For each of the M queries, output the engagement metric modulo 998244353 on a se
 ```
 30
 90
-998244293
+998244253
 ```
 
 ### Explanation (Query 1: s=0, k=2)
