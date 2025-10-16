@@ -1,14 +1,5 @@
 # Qwen Conversation Links
 
-Paste the shared conversation URLs from https://chat.qwen.ai/ for each attempt:
-
-- **Run 01** (full detailed prompt): <add-link-here>
-- **Run 02** (simplified prompt): <add-link-here>
-- **Run 03** (misleading prompt): <add-link-here>
-
-## Notes
-
-- All attempts should have **thinking mode DISABLED**
-- Each run should use a **NEW conversation** (not continuing previous ones)
-- Save the exact code Qwen generates to the corresponding run_XX.py file
-- Document any errors or bugs that cause the attempts to fail
+- **Run 01**: [Run 01 link](https://chat.qwen.ai/s/95df0a0d-0e21-421c-b9c0-7dbf63a42b66?fev=0.0.227)
+- **Run 02**: [Run 02 link](https://chat.qwen.ai/s/ef9cf523-1307-429f-b26f-a4ebdd16f1cb?fev=0.0.227)
+- **Run 03**: [Run 03 link](https://chat.qwen.ai/s/b28b94d9-81a8-49af-8664-afa3fdf76dde?fev=0.0.227)
